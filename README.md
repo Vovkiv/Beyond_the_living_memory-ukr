@@ -1,7 +1,7 @@
-# /Назва Фанфіка/ - Українською
+# /Beyond the living memory/ - Українською
 ![обкладинка](https://github.com/Vovkiv/fanfic-translation-template/blob/main/src/cover-ukr.png?raw=true)
 
-/перекладений опис фанфіка з fimfiction/
+/In a tender and heartfelt tale, follow the journey of two mares, Vinyl and Octavia, as they navigate the intricate melodies of life and love. As their shared passion for music intertwines their destinies, they face unexpected challenges that test the limits of their bond. Through moments of joy, sorrow, and profound connection, they discover the enduring power of music to heal and transcend the boundaries of time. This is a story that explores the beauty of human connection, the resilience of their spirits, and the transformative nature of love in the face of life's obstacles./
 
 # Як відкрити? Де фанфік?
 пдф файл: https://github.com/Vovkiv/fanfic-translation-template/blob/main/fic-ukr.pdf
@@ -29,10 +29,10 @@
 Тоді ви можете написати мені тут: [Contacts](https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/tree/main#contacts)
 
 # Original fic:
-https://www.fimfiction.net/story/посилання_на_фанфік
+https://www.fimfiction.net/story/539268/beyond-the-living-memory
 
 # Original cover:
-https://посилання_на_обкладинку
+https://www.deviantart.com/instanttramenn/art/Octavia-and-Vinyl-old-COMMISSION-973389961, aka instanttramenn
 
 # Слідкувати за процесом перекладу і іншими фанфіками, які я вже переклав можна тут:
 https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate
